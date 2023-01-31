@@ -54,11 +54,11 @@ const Header = () => {
             <div className="nav__icons">
               <span className="fav__icon">
                 <i className="ri-heart-line"></i>
-                <span className="badge">1</span>
+                <span className="badge">2</span>
               </span>
               <span className="cart__icon">
                 <i className="ri-shopping-bag-line"></i>
-                <span className="badge">1</span>
+                <span className="badge">2</span>
               </span>
               <span>
                 <motion.img whileTap={{ scale: 1.2}} src={userIcon} alt="" />
